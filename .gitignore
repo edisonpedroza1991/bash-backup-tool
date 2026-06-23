@@ -1,0 +1,7 @@
+#backups generados por el script (resultados, no codigo)
+*.tar.gz
+ejercicios1/backups_tar_gz/
+
+#archivos del sistema macOS
+.DS_Store
+
